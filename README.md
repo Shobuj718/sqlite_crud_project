@@ -12,3 +12,7 @@ This is a user list page
 
 Update page
 ![update_user](https://cloud.githubusercontent.com/assets/19804482/25563039/fd81caae-2db4-11e7-9df0-be26a8b6fcd4.PNG)
+
+
+Delete user 
+![delete_user](https://cloud.githubusercontent.com/assets/19804482/25563053/35a5b094-2db5-11e7-9678-9967ae4d90da.PNG)

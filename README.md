@@ -3,7 +3,7 @@ This is a simple sqlite crud project.
 
 # installation
 
-## This project is simple sqlite crud operation project.All operation you if can handle just install xammp and you can see my database use DB browser for sqlite open this database.
+## This project is simple sqlite crud operation project. All operation  if you can handle just install xammp for run php file and you can see my database use DB browser for sqlite open this database.
 
 # Tests
 ## If installation complete, Firstly you can create a user and after create a user its going to redirect list page. Here you can edit and delete user.You can see a popup menu for alert before delete a user.

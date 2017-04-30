@@ -8,3 +8,7 @@ User created here...
 This is a user list page
 
 ![user_list](https://cloud.githubusercontent.com/assets/19804482/25562988/3f80b38a-2db4-11e7-87fe-c97b2d056dc4.PNG)
+
+
+Update page
+![update_user](https://cloud.githubusercontent.com/assets/19804482/25563039/fd81caae-2db4-11e7-9df0-be26a8b6fcd4.PNG)
